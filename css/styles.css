@@ -1,0 +1,51 @@
+body {
+  width: 50%;
+  margin: 60px auto;
+  background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+h1 {
+  font-size: 80px;
+  font-weight: bolder;
+}
+
+h2 {
+  font-weight: bold;
+  padding-top: 15px;
+}
+
+h3 {
+  font-size: 15px;
+  text-align: right;
+  font-family: "Poppins", sans-serif;
+  font-weight: lighter;
+  color: #09203f;
+}
+
+h5 {
+  text-align: center;
+  color: #527794;
+  font-family: "PT Mono", monospace;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+p {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  font-weight: bolder;
+  color: #2b4967;
+}
+
+.icon-sun {
+  font-size: 80px;
+  padding-left: 60px;
+}
+
+.days-week,
+.temperature-icon {
+  font-size: 13px;
+  font-family: "Poppins", sans-serif;
+  font-weight: lighter;
+  color: #09203f;
+}
